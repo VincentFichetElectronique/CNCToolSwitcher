@@ -1,0 +1,25 @@
+
+PCB Factory information file
+
+Projectname         : CNC3018SWITCHER
+Description         : DRILL PROGRAM
+Timestamp           : Thursday, May 11, 2023  21:45:31
+Created by          : LAYO1 PCB VERSION 10
+
+Attached datafile   : CNC3018SWITCHER.E01
+
+Device              : EXCELLON, Inch, 2.4, Leading Zero
+
+Board width         : 120.000 mm. =  4.7244 inch
+Board height        : 100.000 mm. =  3.9370 inch
+Board offset        :   0.000 mm. =  0.0000 inch
+Board offset        :   0.000 mm. =  0.0000 inch
+
+  TOOL    ......Tooldiameters......      USED
+   T1      0.200 mm.    0.0079 inch         4
+   T2      0.700 mm.    0.0276 inch        11
+   T3      0.800 mm.    0.0315 inch        54
+   T4      1.000 mm.    0.0394 inch        24
+   T5      1.500 mm.    0.0591 inch         8
+   T6      1.800 mm.    0.0709 inch         4
+   T7      3.500 mm.    0.1378 inch         4

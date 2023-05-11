@@ -1,0 +1,31 @@
+G04                                                                  *
+G04 SOURCE        : LAYO1 PCB.EXE VERSION 10                         *
+G04 FORMAT        : GERBER RS-274X, Inch, 2.4, Leading Zero          *
+G04 TITLE         : CNC3018SWITCHER_DRILL DRAWING                    *
+G04 TIME          : Thursday, May 11, 2023  21:45:25                 *
+G04                                                                  *
+G04 Board width   : 120.000 mm. =  4.7244 inch                       *
+G04 Board height  : 100.000 mm. =  3.9370 inch                       *
+G04 Board offset  :   0.000 mm. =  0.0000 inch                       *
+G04 Board offset  :   0.000 mm. =  0.0000 inch                       *
+G04                                                                  *
+G04 Apertures:                                                       *
+G04       Type          X       Y             X       Y        Used  *
+G04                      Inches                Metric                *
+G04 D10   Draw        0.0787  0.0787        2.000   2.000         8  *
+G04                                                                  *
+%FSLAX24Y24*
+MOIN*
+SFA1.0B1.0*%
+%ADD10C,0.0787*%
+%LNDrill drawing*%
+G54D10*
+X023000Y035370D02*
+X005000Y035370D01*
+X005000Y004620D01*
+X023000Y004620D01*
+X024500Y004620D02*
+X042000Y004620D01*
+X042000Y035370D01*
+X024500Y035370D01*
+M02*
